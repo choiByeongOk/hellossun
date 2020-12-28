@@ -17,7 +17,7 @@ https://gist.github.com/rxaviers/7360908
 - 사용할 IDE
   - IntelliJ (https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 
-## 마음에 드는 디자인이 중요하지
+## 마음에 드는 디자인이 중요하죠
 - 마음에 드는 템플릿을 골라보세요~ (버튼 디자인, 색감, 레이아웃 배치 등!)
   - https://themewagon.com/theme_tag/free/
   - https://startbootstrap.com/
