@@ -23,4 +23,5 @@ https://gist.github.com/rxaviers/7360908
   - https://startbootstrap.com/
   - https://www.creative-tim.com/templates/free
   - https://www.creative-tim.com/templates
-  - 미션:exclamation:: 이 줄을 마음에 드는 템플릿 링크로 변경해주세요. :wink:
+  - https://themewagon.com/themes/free-bootstrap-4-html5-portfolio-website-template-rezume/
+  - :wink:
