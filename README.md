@@ -2,7 +2,7 @@
 ssun:dog: 누나의 포트폴리오 웹사이트 제작을 위한 저장소
 
 ## 우리가 알아야 할 것들
-- git, github, git flow
+- git, github, git flow, sourcetree
 - HTML, CSS, Javascript
 - Node.js, Jquery (or react.js) 
 - 썬과 감자의 일상, 썬이 좋아하는 간식, 감자가 하루에 자는 시간, ... :scream:
